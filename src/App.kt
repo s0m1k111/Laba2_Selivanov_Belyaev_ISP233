@@ -1,3 +1,5 @@
 fun main() {
-    println("Nigga")
+    val num = readln().toInt()
+    println(num)
+    println("Negr")
 }
